@@ -11,6 +11,14 @@
 
 ##
 
+<div align="center">
+  <a href="https://github.com/felipe-falcao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Falcao&count_private=true&show_icons=true&theme=dark&hide=prs,issues"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Falcao&exclude_repo=mobile-expenses-app,mobile-meals-app,mobile-medical-clinic&layout=compact&theme=dark"/>
+</div>
+
+##
+
 <div> 
   <a href="https://instagram.com/felipe_sfalcao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:felipe14falcao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
