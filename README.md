@@ -9,6 +9,8 @@
   <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 </div>
 
+![Snake animation](https://github.com/felipe-falcao/felipe-falcao/blob/output/github-contribution-grid-snake.svg)
+
 ##
 
 <div align="center">
