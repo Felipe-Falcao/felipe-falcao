@@ -9,14 +9,15 @@
   <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 </div>
 
-![Snake animation](https://github.com/felipe-falcao/felipe-falcao/blob/output/github-contribution-grid-snake.svg)
-
 ##
 
 <div align="center">
   <a href="https://github.com/felipe-falcao">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Falcao&count_private=true&show_icons=true&theme=dark&hide=prs,issues&layout=compact"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Falcao&exclude_repo=mobile-expenses-app,mobile-meals-app,mobile-medical-clinic&layout=compact&theme=dark"/>
+  
+  ![Snake animation](https://github.com/felipe-falcao/felipe-falcao/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 ##
